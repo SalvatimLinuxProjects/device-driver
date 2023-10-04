@@ -1,0 +1,2 @@
+sudo rm /dev/Salvatierra_Martin_HW6_main
+sudo rmmod Salvatierra_Martin_HW6_main.ko

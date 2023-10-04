@@ -1,0 +1,1 @@
+cmd_/home/student/Documents/csc415-device-driver-Salvatim007/Module/Salvatierra_Martin_HW6_main.mod := { echo  /home/student/Documents/csc415-device-driver-Salvatim007/Module/Salvatierra_Martin_HW6_main.o;  echo; } > /home/student/Documents/csc415-device-driver-Salvatim007/Module/Salvatierra_Martin_HW6_main.mod
